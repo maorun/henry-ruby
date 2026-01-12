@@ -1,5 +1,5 @@
 ---
-name: 4d6 Neues Kapitel schreiben lassen
+name: Neues Kapitel schreiben lassen
 about: Lasse GitHub Copilot die Geschichte mit einem neuen Abenteuer-Kapitel fortsetzen!
 title: "Neues Kapitel: [Kapitelnummer und Titel]"
 labels: [kapitel, copilot]
