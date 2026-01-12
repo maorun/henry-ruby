@@ -8,9 +8,13 @@ Als Henry den Topf vorsichtig anhebt, hören sie ein leises Piepsen. „Was war 
 
 Henry und Ruby reiben sich verwundert die Augen. „Du kannst sprechen?", staunt Henry. Flöckchen nickt eifrig und sein Näschen zuckt lustig. „Ich bewache den Schlüssel für die Kiste. Aber ich gebe ihn nur jemandem, der mir bei einem Problem helfen kann."
 
-Ruby setzt sich ins Gras und schaut Flöckchen neugierig an. „Was für ein Problem hast du denn?", fragt sie mit ihrer sanften Stimme. Der kleine Hase erklärt, dass er seinen besten Freund, einen Marienkäfer namens Pünktchen, verloren hat. Pünktchen wollte die roten Blumen am anderen Ende des Gartens besuchen, aber er ist seit gestern Mittag nicht zurückgekommen.
+Ruby setzt sich ins Gras und schaut Flöckchen neugierig an. „Was für ein Problem hast du denn?", fragt sie mit ihrer sanften Stimme.
 
-„Wir helfen dir!", verspricht Henry sofort. Ruby nickt begeistert. „Wir sind super im Suchen!" Die beiden Geschwister und Flöckchen machen sich auf den Weg durch den Garten. Sie schauen unter großen grünen Blättern, zwischen den runden Steinen im Gemüsebeet und sogar in Mamas duftendem Kräutergarten nach. Henry hebt vorsichtig einen Stein nach dem anderen an, während Ruby in die Blüten der Ringelblumen späht.
+Der kleine Hase erklärt, dass er seinen besten Freund, einen Marienkäfer namens Pünktchen, verloren hat. Pünktchen wollte die roten Blumen am anderen Ende des Gartens besuchen, aber er ist seit gestern Mittag nicht zurückgekommen.
+
+„Wir helfen dir!", verspricht Henry sofort. Ruby nickt begeistert. „Wir sind super im Suchen!"
+
+Die beiden Geschwister und Flöckchen machen sich auf den Weg durch den Garten. Sie schauen unter großen grünen Blättern, zwischen den runden Steinen im Gemüsebeet und sogar in Mamas duftendem Kräutergarten nach. Henry hebt vorsichtig einen Stein nach dem anderen an, während Ruby in die Blüten der Ringelblumen späht.
 
 Plötzlich hört Ruby ein zartes „Hilfe!". Es kommt aus der Nähe der großen Sonnenblumen, die so hoch sind wie Papa. „Da vorne!", ruft sie und rennt los. Henry und Flöckchen folgen ihr schnell. Zwischen zwei dicken Sonnenblumenstängeln sehen sie ein feines, silbrig glänzendes Spinnennetz, und mittendrin sitzt tatsächlich ein kleiner Marienkäfer mit genau sieben schwarzen Punkten auf seinem roten Panzer.
 
