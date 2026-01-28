@@ -21,4 +21,4 @@ _Beschreibe das Thema oder den gewünschten Fokus – lasse dieses Feld leer, da
 ---
 
 **An Copilot:**  
-Schreibe ein vollständiges, eigenständiges Kapitel (ca. 400–600 Wörter) als Markdown-Datei im `/chapters/`-Ordner, entsprechend der Vorgaben aus `copilot-instructions.md`. Orientiere dich an Stil, Figuren und Struktur wie dort beschrieben. Schließe gerne mit einem Cliffhanger oder einer offenen Frage!
+Schreibe ein vollständiges, eigenständiges Kapitel (ca. 600–800 Wörter) als Markdown-Datei im `/chapters/`-Ordner, entsprechend der Vorgaben aus `copilot-instructions.md`. Orientiere dich an Stil, Figuren und Struktur wie dort beschrieben. Schließe gerne mit einem Cliffhanger oder einer offenen Frage!
