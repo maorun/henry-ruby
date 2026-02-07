@@ -1,6 +1,6 @@
 # Kapitel 2: Die Suche nach dem Schlüssel
 
-!(https://g.co/gemini/share/f318205303a4)[https://g.co/gemini/share/f318205303a4]
+![https://g.co/gemini/share/f318205303a4](https://g.co/gemini/share/f318205303a4)
 
 Henry und Ruby stehen aufgeregt vor der kleinen, glänzenden Kiste. „Wir brauchen einen Schlüssel!", ruft Ruby und springt vor Freude in die Luft. Henry nickt nachdenklich. Er schaut sich im Garten um und entdeckt kleine Fußspuren im Sand, die zu einem alten Blumentopf führen.
 
